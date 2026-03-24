@@ -1,7 +1,7 @@
 Sales Data Cleaning Project
 Overview
 
-This project focuses on cleaning and preprocessing a messy sales dataset to enable accurate and  reliable analysis. Real-world data is often incomplete and inconsistent, and this project demonstrates practical techniques to handle such challenges using Python.
+This project focuses on cleaning and preprocessing a messy sales dataset to enable accurate and  reliable analysis. Real-world data is often incomplete and inconsistent, and this project demonstrates practical techniques for handling these challenges in Python.
 
 Problem
 
@@ -34,6 +34,7 @@ Key Learnings
 Data cleaning is a critical step in the data analysis process
 Real-world datasets are rarely clean and require careful preprocessing
 Attention to detail significantly impacts the quality of insights
+
 Project Link
 https://github.com/elgideon2/Sales-data-cleaning-project
 
